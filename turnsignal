@@ -1,9 +1,0 @@
-<script>start("/Users/techcodiste/Documents/fluteofthecode/fluteofthevoice/turnsignal/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("__pycache__","__pycache__",1,96,"96 B",1777352373,"28/04/2026, 10:29:33");</script>
-<script>addRow("audio","audio",1,192,"192 B",1777352355,"28/04/2026, 10:29:15");</script>
-<script>addRow("config","config",1,192,"192 B",1777352355,"28/04/2026, 10:29:15");</script>
-<script>addRow("core","core",1,288,"288 B",1777352355,"28/04/2026, 10:29:15");</script>
-<script>addRow("telco","telco",1,256,"256 B",1777352355,"28/04/2026, 10:29:15");</script>
-<script>addRow("turntaking","turntaking",1,416,"416 B",1777352355,"28/04/2026, 10:29:15");</script>
-<script>addRow("__init__.py","__init__.py",0,248,"248 B",1777352355,"28/04/2026, 10:29:15");</script>
